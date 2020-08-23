@@ -1,0 +1,2 @@
+include ':app', ':marketplace', ':account'
+rootProject.name='ModularizedAndroidApp'
